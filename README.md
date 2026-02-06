@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mohammed
 
-<!--
-**mohammedgharamah1/mohammedgharamah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS graduate based in Riyadh, Saudi Arabia. I like building things with AI and web technologies.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Saudi Labor Law HR Assistant** — an AI-powered tool that helps HR teams understand Saudi Labor Law. It uses RAG to match questions against actual law articles and return accurate answers with article citations. Built with JavaScript, Groq API, and Llama 3.3 70B.
+
+Check it out: [Live Demo](https://mohammedgharamah1.github.io/saudi-labor-advisor) · [Source Code](https://github.com/mohammedgharamah1/saudi-labor-advisor)
+
+## Tech I work with
+
+JavaScript, HTML/CSS, Python, AI/LLM APIs, Prompt Engineering, RAG
