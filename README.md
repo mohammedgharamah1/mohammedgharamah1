@@ -4,6 +4,10 @@ CS graduate based in Riyadh, Saudi Arabia. I build things across AI, networking,
 
 ## Projects
 
+**AI Murder Mystery** — an AI-powered interrogation game where you play as a detective solving a murder. The AI generates a unique crime scenario, 4 suspects with fabricated alibis, and 6 evidence pieces every game. Interrogate suspects, spot inconsistencies, and make your accusation. Built with Python, Flask, Groq API, and Llama 3.3 70B. Supports English and Arabic.
+
+[Source Code](https://github.com/mohammedgharamah1/murder-mystery-game)
+
 **SafeSend** — encrypted file and text sharing with self-destructing links. Files are encrypted in the browser using AES-256-GCM before reaching the server. The encryption key stays in the URL fragment so the server never sees your data. Links work once then the file is permanently deleted.
 
 [Live Demo](https://safesend-9yq5.onrender.com) · [Source Code](https://github.com/mohammedgharamah1/safesend)
