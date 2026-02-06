@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed
+# Hi, I'm Mohammed Gharamah
 
 CS graduate based in Riyadh, Saudi Arabia. I build things across AI, networking, and security — all projects are live with working demos.
 
